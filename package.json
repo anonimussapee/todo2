@@ -1,6 +1,6 @@
 {
   "homepage": "https://anonimussapee.github.io/todo2",
-  "name": "todos",
+  "name": "todo2",
   "version": "0.1.0",
   "dependencies": {
     "react": "^17",
